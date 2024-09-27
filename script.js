@@ -12,7 +12,7 @@ function capitalizeFirstLetter(string) {
 
 // Jake's API Key: JKuoJOHyXXyCCTjmprvFSwO7Yx33M3i7p3G1vZh3
 // uses Jakes's API key (currently in use)
-let releasesUrl = "https://api.watchmode.com/v1/releases/?apiKey=JKuoJOHyXXyCCTjmprvFSwO7Yx33M3i7p3G1vZh3&limit=15";
+let releasesUrl = "https://api.watchmode.com/v1/releases/?apiKey=JKuoJOHyXXyCCTjmprvFSwO7Yx33M3i7p3G1vZh3";
 
 // Elisabeth's API Key: ____
 // uses Elisabeths's API key (needs to be added in blanks above and below)
